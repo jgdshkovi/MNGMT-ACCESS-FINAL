@@ -14,4 +14,4 @@ Cloud Scheduler, BigQuery, and Cloud Storage.
 insights derived from the analyzed weather data.
 
 
-![GCP-Data-Pipeline](images/GCP Data Pipeline.png?raw=true "GCP Data Pipeline")
+![GCP-Data-Pipeline](images/GCP-Data-Pipeline.png "GCP-Data-Pipeline.png")
